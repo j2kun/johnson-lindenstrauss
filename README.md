@@ -1,6 +1,6 @@
 # Johnson-Lindenstrauss Transform
 
-Code and data used in the post "Big Dimensions, and What You Can Do About It"
+Code and data used in the post [Big Dimensions, and What You Can Do About It](https://jeremykun.com/2016/02/08/big-dimensions-and-what-you-can-do-about-it/0
 
 ### Animations
 
